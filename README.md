@@ -1,0 +1,17 @@
+The read me file in the download link (made it way easier now)
+
+Before you download, please have python 3.11.0 installed on your device.
+If not, there is a link below this text:
+
+Link: https://www.python.org/downloads/release/python-3110/
+
+Or you can download it thru the microsoft store.
+
+If you have any issues with running the app, contact me on discord. My username is: ivanivan#9870
+
+
+Il try to accept as soon as i can!
+
+
+(TaskKiller V1)
+(Made by Ivan)
